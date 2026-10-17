@@ -89,3 +89,39 @@ body {
     color: #E5E7EB;
     flex: 1;
 }
+
+.information {
+    margin: 40px 0 86px;
+}
+
+.information h2 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+}
+
+.information-cards {
+    display: flex;
+    max-width: 600px;
+    margin: 50px auto;
+    gap: 40px;
+    justify-content: center;
+}
+
+.information-cards .illustration {
+    border: 4px solid #3882F6;
+    border-radius: 16px;
+    padding: 80px;
+}
+
+.information p {
+    color: #6B7280;
+    font-size: 18px;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.quote-section {
+    background-color: #E5E7EB;
+}
