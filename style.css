@@ -124,4 +124,25 @@ body {
 
 .quote-section {
     background-color: #E5E7EB;
+    margin: 60px 0;
+    padding: 120px;
+}
+
+.quote-content {
+    max-width: 780px;
+    margin: 0 auto;
+}
+
+.quote-content blockquote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.quote-author {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: right;
+    color: #1F2937;
 }
